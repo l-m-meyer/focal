@@ -4,7 +4,6 @@
 * @result {String} "Rolled n dice: n"
 */
 
-
 // generate a random number n times
 // store as an array and return random number n times
 const randomNum = n => {
