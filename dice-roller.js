@@ -5,7 +5,7 @@
 */
 
 
-// generate a random number n times, helper function
+// generate a random number n times
 // store as an array and return random number n times
 const randomNum = n => {
   const arr = [];
